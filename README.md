@@ -3,7 +3,7 @@
 This project is a speech-enabled personal assistant built with Python that can:
 
 - Read your Google Calendar events aloud
-- Respond to custom wake phrases like "Hey Tim"
+- Respond to custom wake phrases like "Hey Lil'B"
 - Take voice notes and save them automatically to Notepad
 
 ## 🔧 Technologies Used
@@ -16,8 +16,8 @@ This project is a speech-enabled personal assistant built with Python that can:
 
 ## 🗣️ Example Commands
 
-- "Hey Tim, what do I have on Friday?"
-- "Hey Tim, make a note: buy groceries"
+- "Hey Lil'b, what do I have on Friday?"
+- "Hey Lil'b, make a note: buy groceries"
 
 ## 🚀 How to Run
 
